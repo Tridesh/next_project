@@ -1,8 +1,5 @@
 import Link from "next/link";
-import Image from "next/image";
 import React, { useState } from "react";
-import Logo from "./Logo";
-import NavItem from "./NavItem";
 import navbar from "./navbar.css"
 
 const MENU_LIST = [
